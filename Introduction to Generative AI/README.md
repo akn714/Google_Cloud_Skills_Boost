@@ -1,7 +1,4 @@
-# Generative AI
-
-## Day 1
-### Introduction to Generative AI
+# Introduction to Generative AI
 * what is AI?
     * Artificial Intelligence is the Branch of Computer Science that deals with the creation of intelligent agents which are systems that reason and learn and act autonomously.
     * AI is the theory and development of computer systems able to perform tasks normally requiring human intelligence.
